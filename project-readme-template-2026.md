@@ -119,3 +119,8 @@ Start the main program.
 ## Notes
 
 [Any additional project information.]
+
+--
+## Data Persistence
+
+Each paper will be stored as a JSON object, including link to the paper, file path to local copy, relevant comments, and a list of genes in that paper. The last shown graph will be cached and saved. 
