@@ -4,7 +4,7 @@
 
 ### Team Members
 - Yicheng Xia
-- Haixin WangWilliam Chen
+- Haixin Wang
 - Tony Shi
 - Yixin Xu
 - William Chen
