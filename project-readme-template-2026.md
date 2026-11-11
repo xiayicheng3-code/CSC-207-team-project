@@ -24,24 +24,35 @@ Productivity/ Acedemic Research
 ## User Stories
 
 ### User Story 1
-As a bioinformatics student, I want to find research papers about genes of interest, so that I can conduct my research in an organized manner. 
+As a bioinformatics student, I want to find research papers about genes of interest, so that I can 
+conduct my research in an organized manner. 
   - I also want to change the # of papers shown on the search results page. 
 ### User Story 2
-As a bioinformatics student, I want to organize papers based on different genes so I can learn its relationship with the gene of interest.
-### User Story 3
-As a student reading papers, I want to upload pdf to link so that I can see them later.
+As a bioinformatics student, I want to organize papers based on different genes so I can learn its
+relationship with the gene of interest.
+### User Story 3.1
+As a researcher, I want to view a paper's URL, title, authors, and abstract,
+so that I can determine whether the paper is relevant to my research.
+### User Story 3.2
+As a researcher, I want to save links to research papers,
+so that I can easily access them again in the future.
 ### User Story 4
-As a researcher, I want to be able to search through my previously annotated/noted papers with keywords
+As a researcher, I want to be able to search through my previously annotated/noted papers with 
+keywords，so that I can quickly retrieve information I have previously recorded.
 ### User Story 5
-As a researcher, I want to store all my read papers under different gene categories so that it is organized
+As a researcher, I want to store all my read papers under different gene categories so that it is 
+organized
 ### User Story 6
-As a researcher, I want to delete papers so that in case the paper is irrelevant to any scope within my project
+As a researcher, I want to remove papers from my saved collection, so that I can keep my research 
+library focused on the most relevant and useful literature.
 ### User Story 7
 As a user, I want to create an account so that all my records are confidential for privacy reasons
 ### User Story 8
-As a user, I want to be able to log off my account so that the next person opening the app will not be able to sabatoge my notes
+As a user, I want to be able to log off my account so that the next person opening the app will not
+be able to sabatoge my notes
 ### User Story 9
-As a user, I want to be able to write notes under the abstract so that I can keep track of what each paper is talking about and what are some key information extracted.
+As a user, I want to be able to write notes under the abstract so that I can keep track of what each
+paper is talking about and what are some key information extracted.
 
 ---
 
@@ -51,7 +62,8 @@ As a user, I want to be able to write notes under the abstract so that I can kee
 User upload a pdf and/or a link for a academic paper, saves the paper with a title and description.
 Exception: the paper already exists, a popout window asks if user still want to continue. 
 ### Use Case 2
-User had loaded multiple papers sharing research interest on gene A and B. papers are clustered based on whether they focused on these genes.
+User had loaded multiple papers sharing research interest on gene A and B. papers are clustered 
+based on whether they focused on these genes.
 ### Use Case 3
 
 (Add additional use cases as needed.)
