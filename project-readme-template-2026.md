@@ -25,10 +25,11 @@ Productivity/ Acedemic Research
 
 ### User Story 1
 As a bioinformatics student, I want to find research papers about genes of interest, so that I can conduct my research in an organized manner. 
+  - I also want to change the # of papers shown on the search results page. 
 ### User Story 2
 As a bioinformatics student, I want to organize papers based on different genes so I can learn its relationship with the gene of interest.
 ### User Story 3
-As a student reading papers, I want to save link and/or pdf in a structured manner so I can see them later.
+As a student reading papers, I want to upload pdf to link so that I can see them later.
 ### User Story 4
 As a researcher, I want to be able to search through my previously annotated/noted papers with keywords
 ### User Story 5
@@ -39,6 +40,8 @@ As a researcher, I want to delete papers so that in case the paper is irrelevant
 As a user, I want to create an account so that all my records are confidential for privacy reasons
 ### User Story 8
 As a user, I want to be able to log off my account so that the next person opening the app will not be able to sabatoge my notes
+### User Story 9
+As a user, I want to be able to write notes under the abstract so that I can keep track of what each paper is talking about and what are some key information extracted.
 
 ---
 
