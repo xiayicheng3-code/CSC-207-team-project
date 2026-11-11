@@ -26,15 +26,19 @@ Productivity/ Acedemic Research
 ### User Story 1
 As a bioinformatics student, I want to find research papers about genes of interest, so that I can conduct my research in an organized manner. 
 ### User Story 2
-As a bioinformatics student, I want to keep track of papers I had read and sort their relationship based on gene segments mentioned.
+As a bioinformatics student, I want to organize papers based on different genes so I can learn its relationship with the gene of interest.
 ### User Story 3
 As a student reading papers, I want to save link and/or pdf in a structured manner so I can see them later.
 ### User Story 4
-As a student researcher, I want to visualize papers sharing a particular idea like a specific gene.
+As a researcher, I want to be able to search through my previously annotated/noted papers with keywords
 ### User Story 5
-As a supervisor, I want to read my lab members' notes and thoughts when reading papers to provide better feedback.
+As a researcher, I want to store all my read papers under different gene categories so that it is organized
+### User Story 6
+As a researcher, I want to delete papers so that in case the paper is irrelevant to any scope within my project
 ### User Story 7
-As a researcher, I want to be able to search through my previously connotated/noted papers with keywords 
+As a user, I want to create an account so that all my records are confidential for privacy reasons
+### User Story 8
+As a user, I want to be able to log off my account so that the next person opening the app will not be able to sabatoge my notes
 
 ---
 
@@ -45,7 +49,6 @@ User upload a pdf and/or a link for a academic paper, saves the paper with a tit
 Exception: the paper already exists, a popout window asks if user still want to continue. 
 ### Use Case 2
 User had loaded multiple papers sharing research interest on gene A and B. papers are clustered based on whether they focused on these genes.
-
 ### Use Case 3
 
 (Add additional use cases as needed.)
