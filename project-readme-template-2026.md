@@ -71,7 +71,7 @@ Save papers, Remove papers, Organize saved papers by gene categories, View Saved
 Add Gene, Remove Gene, Open Gene in Genome Browser (UCSC), Create gene relationships, Edit gene relationships, Remove gene relationships, Visualize gene relationship graph
 
 ### PDF Managment
-Upload PDFs, Associate PDFs with papers, Open PDFs, Delete PDFs, Extract Text from PDF, Search Within PDF
+Upload PDFs, Associate PDFs with papers, Open PDFs, Delete PDFs (If have time: Extract Text from PDF, View PDF Inside App)
 
 ### Comment the Paper
 Add the common for the paper, Edit the common for the paper, Delate the common for the paper, View the common for the paper
