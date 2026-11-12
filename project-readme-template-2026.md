@@ -130,10 +130,10 @@ Search by keywords(PubMed API) , Adjust result count, View paper details
 ### Build Personal Paper Library
 Save papers, Remove papers, Organize saved papers by gene categories, View Saved Papers, View Papers by Gene
 
-### Gene Interaction Management
+### Manage Gene Interaction
 Add Gene, Remove Gene, Open Gene in Genome Browser (UCSC), Create gene relationships, Edit gene relationships, Remove gene relationships, Visualize gene relationship graph
 
-### PDF Managment
+### Manage PDF 
 Upload PDFs, Associate PDFs with papers, Open PDFs, Delete PDFs (If have time: Extract Text from PDF, View PDF Inside App)
 
 ### Comment the Paper
