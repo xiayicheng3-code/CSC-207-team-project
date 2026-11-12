@@ -54,17 +54,30 @@ be able to sabatoge my notes
 As a user, I want to be able to write notes under the abstract so that I can keep track of what each
 paper is talking about and what are some key information extracted.
 
+
+
+5.As a researcher, I want to manage comments on research papers, so that I can discuss and share insights about the papers with other researchers.
+
 ---
 
 ## Use Cases
+1.Search the Paper
+Search by keywords(PubMed API) , Adjust result count, View paper details
 
-### Use Case 1
-User upload a pdf and/or a link for a academic paper, saves the paper with a title and description.
-Exception: the paper already exists, a popout window asks if user still want to continue. 
-### Use Case 2
-User had loaded multiple papers sharing research interest on gene A and B. papers are clustered 
-based on whether they focused on these genes.
-### Use Case 3
+2.Build Personal Paper Library
+Save papers, Remove papers, Organize saved papers by gene categories, View Saved Papers, View Papers by Gene
+
+3.Gene Interaction Management
+Add Gene, Remove Gene, Open Gene in Genome Browser (UCSC), Create gene relationships, Edit gene relationships, Remove gene relationships, Visualize gene relationship graph
+
+4.PDF Managment
+Upload PDFs, Associate PDFs with papers, Open PDFs, Delete PDFs, Extract Text from PDF, Search Within PDF
+
+5.Comment the Paper
+Add the common for the paper, Edit the common for the paper, Delate the common for the paper, View the common for the paper
+
+6.Manage User Account
+create account, login account, logout account
 
 (Add additional use cases as needed.)
 
