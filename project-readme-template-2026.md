@@ -61,22 +61,22 @@ paper is talking about and what are some key information extracted.
 ---
 
 ## Use Cases
-1.Search the Paper
+###Search the Paper
 Search by keywords(PubMed API) , Adjust result count, View paper details
 
-2.Build Personal Paper Library
+###Build Personal Paper Library
 Save papers, Remove papers, Organize saved papers by gene categories, View Saved Papers, View Papers by Gene
 
-3.Gene Interaction Management
+###Gene Interaction Management
 Add Gene, Remove Gene, Open Gene in Genome Browser (UCSC), Create gene relationships, Edit gene relationships, Remove gene relationships, Visualize gene relationship graph
 
-4.PDF Managment
+###PDF Managment
 Upload PDFs, Associate PDFs with papers, Open PDFs, Delete PDFs, Extract Text from PDF, Search Within PDF
 
-5.Comment the Paper
+###Comment the Paper
 Add the common for the paper, Edit the common for the paper, Delate the common for the paper, View the common for the paper
 
-6.Manage User Account
+###Manage User Account
 create account, login account, logout account
 
 (Add additional use cases as needed.)
